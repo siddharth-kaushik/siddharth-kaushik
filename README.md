@@ -6,7 +6,7 @@ I am a frontend engineer with 7 years of web development experience. I have work
 
 - 🔍 looking out for new frontend role
 - 🔭 currently working on improving portfolio website
-- 🤓 learning cypress, hydrogen, svelte and remix
+- 🤓 exploring cypress, hydrogen, svelte and remix
 - 🗣 pronouns: he/him
 
 #### 🌱 My latest projects
