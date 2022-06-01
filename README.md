@@ -2,7 +2,7 @@
 
 > /sid.haarth co.sh.i.k/
 
-I am a frontend engineer with 7 years of web development experience. I have worked on both web (frontend and backend) and mobile (Android and iOS). For the past 5 years, I have been primarily working on frontend projects. I'm
+I am a frontend engineer with 7 years of web development experience. I have worked on both web (frontend and backend) and mobile (Android and iOS). For the past 5 years, I have been primarily working on frontend projects. 
 
 - 🔍 looking out for new frontend role
 - 🔭 currently working on improving portfolio website
@@ -10,7 +10,7 @@ I am a frontend engineer with 7 years of web development experience. I have work
 - 🗣 pronouns: he/him
 
 #### 🌱 My latest projects
-- [OFX Design System](https://www.ofx.com/en-au/) – build v2 using React, TypeScript, Figma WebHooks and APIs
+- [OFX](https://www.ofx.com/en-au/) – build design system v2 using React, TypeScript, Figma WebHooks and APIs
 - [Forsta](https://www.forsta.com/) - helped refresh landing page using React, GSAP, and WordPress blocks
 - [Green Our Planet](https://greenourplanet.org/hydroponics/) – build design system using React and Frontity
 - [Tesco](https://www.tesco.com/) - replicated legacy analytics app in React, TypeScript and Node
