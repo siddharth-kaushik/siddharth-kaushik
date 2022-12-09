@@ -4,7 +4,6 @@
 
 I am a frontend engineer with 7 years of web development experience. I have worked on both web (frontend and backend) and mobile (Android and iOS). For the past 5 years, I have been primarily working on frontend projects. 
 
-- 🔍 looking out for new frontend role
 - 🔭 currently working on improving portfolio website
 - 🤓 exploring cypress, hydrogen, svelte and remix
 - 🗣 pronouns: he/him
