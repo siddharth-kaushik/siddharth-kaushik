@@ -7,7 +7,6 @@
 Passionate web developer with 8 years of experience in creating exceptional digital experiences. Expertise in Angular, React, and Vue, combined with a keen eye for design and user experience focused on delivering user-centric solutions that blend functionality and aesthetics.
 
 - ⚡️ working at Scribd with amazing SlideShare team
-- 🔨 experimenting on my portfolio website
 - 🔭 exploring Nx Monoliths, Remix and ChatGPT APIs
 
 #### 🌱 Past work
