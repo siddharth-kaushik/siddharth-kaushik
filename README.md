@@ -4,11 +4,11 @@
 >
 > /sɪdˈhɑrθ ˈkaʊʃɪk/
 
-I am an engineer with a broad range of experience in web and mobile development. Over the past 8 years, I have worked on many contract projects using a variety of technologies, such as Angular, Vue, React, WordPress, Python, and PHP. In addition, I have completed a certificate in graphic design which enhanced my knack for user perspective and experience design.
+Passionate web developer with 8 years of experience in creating exceptional digital experiences. Expertise in Angular, React, and Vue, combined with a keen eye for design and user experience focused on delivering user-centric solutions that blend functionality and aesthetics.
 
 - ⚡️ working at Scribd with amazing SlideShare team
 - 🔨 experimenting on my portfolio website
-- 🔭 exploring Nx Monoliths, Remix and Chat GPT 
+- 🔭 exploring Nx Monoliths, Remix and ChatGPT APIs
 
 #### 🌱 Past work
 
