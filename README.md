@@ -4,13 +4,9 @@
 >
 > /sɪdˈhɑrθ ˈkaʊʃɪk/
 
-Passionate web developer with 8 years of experience in creating exceptional digital experiences. Expertise in Angular, React, and Vue, combined with a keen eye for design and user experience focused on delivering user-centric solutions that blend functionality and aesthetics.
 
-- ⚡️ working at [Scribd](https://www.scribd.com) migrating [SlideShare.net](https://www.slideshare.net) to Next.js
-- 🔭 exploring Nx Monoliths, Remix and ChatGPT APIs
-
-#### 🌱 Past work
-
+#### 🌱 work
+⚡️ at [Scribd](https://www.scribd.com) migrating [SlideShare.net](https://www.slideshare.net) to Next.js
 
 - [Turing Analytics](https://turinganalytics.net) - developed features for cloud based oil & gas analytics platform for operators, investors and advisors
 - [Law Engineering Systems](https://ingegneriadeldiritto.it/) - laid the frontend foundation using Remix for Italian law search engine app
